@@ -3,6 +3,7 @@
 .sass-cache
 capybara-*.html
 .rspec
+.DS_Store
 /.bundle
 /vendor/bundle
 /log/*
@@ -15,8 +16,4 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
-/config/database.yml
-/config/initializers/devise.rb
-/config/initializers/koala.rb
-/config/deploy.rb
 Capfile
