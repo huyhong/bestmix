@@ -1,0 +1,3 @@
+- Remove SDURLCache.h
+- Add #import "CoreData+MagicalRecord.h" into Pods-MagicalRecord-prefix.pch
+- Add CoreData+MagicalRecord.h into target build
